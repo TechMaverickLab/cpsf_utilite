@@ -1,0 +1,20 @@
+{
+  "name": "cpsf_utilite",
+  "version": "1.2.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "project-structure",
+    "generator",
+    "file-structure",
+    "directory-structure",
+    "npm",
+    "nodejs",
+    "utility"
+  ],
+  "author": "",
+  "license": "ISC"
+}
